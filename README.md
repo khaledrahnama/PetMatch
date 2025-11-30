@@ -1,5 +1,14 @@
 # PetMatch 🐾
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/khaledrahnama/PetMatch/Public/Images/PetMatch.svg" width="800" alt="PetMatch App Screenshots">
+  <br>
+  <em>From left: Home screen, Pet profiles, Matching, Chat</em>
+</div>
+
+
+# PetMatch 🐾
+
 [![React Native](https://img.shields.io/badge/React_Native-0.72.0-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactnative.dev/)
 [![Node.js](https://img.shields.io/badge/Node.js-18.x-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-6.0-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)

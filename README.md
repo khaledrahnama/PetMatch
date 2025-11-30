@@ -1,7 +1,7 @@
 # PetMatch 🐾
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/khaledrahnama/petmatch/public/images/PetMatch.svg" width="800" alt="PetMatch App Screenshots">
+  <img src="https://raw.githubusercontent.com/khaledrahnama/PetMatch/public/images/PetMatch.svg" width="800" alt="PetMatch App Screenshots">
   <br>
   <em>From left: Home screen, Pet profiles, Matching, Chat</em>
 </div>

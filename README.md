@@ -1,10 +1,10 @@
 # PetMatch 🐾
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/khaledrahnama/PetMatch/main/assets/home.png" width="800" alt="PetMatch App Screenshots">
+  <img src="https://raw.githubusercontent.com/khaledrahnama/PetMatch/main/assets/home.png"  alt="PetMatch App Screenshots">
     <br>
 
-   <img src="https://raw.githubusercontent.com/khaledrahnama/PetMatch/main/assets/matched.png" width="800" alt="PetMatch App Screenshots">
+   <img src="https://raw.githubusercontent.com/khaledrahnama/PetMatch/main/assets/matched.png"  alt="PetMatch App Screenshots">
   <br>
   <em>From left: Home screen, Pet profiles, Matching, Chat</em>
 </div>
